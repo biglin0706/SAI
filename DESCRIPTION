@@ -1,0 +1,18 @@
+Package: SAI
+Type: Package
+Title: SIGNIFICANT for all models
+Version: 0.1.1
+Author: Geng-Xian Lin<biglin0706@gmail.com>
+Maintainer: Geng-Xian Lin <biglin0706@gmail.com>
+Description: SIGNIFICANT for all models
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Depends: 
+  plyr,
+  survival,
+  lme4, 
+  MASS,
+  gtools,
+  table1
